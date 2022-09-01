@@ -1,0 +1,32 @@
+.one{
+    height:100px;
+    width:100px;
+    background-color: red;
+    display: inline-block;
+
+} 
+
+.second{
+    height:100px;
+    width:100px;
+    background-color: blue;
+    display: inline-block;
+
+
+}
+
+.third{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: inline-block;
+
+} 
+
+.fourth{
+    height: 100px;
+    width: 100px;
+    background-color: yellow;
+    display: inline-block;
+    
+}
